@@ -1,0 +1,8 @@
+ .DS_Store
+ out/
+settings.gradle
+.idea/
+gradle/
+gradlew.bat
+Palindrome.iml
+
